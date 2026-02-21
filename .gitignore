@@ -1,0 +1,20 @@
+Ignore API keys and environment variables
+
+.env
+.env.local
+
+Ignore local backup/old files
+
+*_OLD.py
+ai_image_renamer_OLD.py
+
+Ignore Python cache
+
+pycache/
+*.py[cod]
+*$py.class
+
+Ignore OS metadata
+
+.DS_Store
+Thumbs.db
